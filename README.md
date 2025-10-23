@@ -8,7 +8,7 @@ Isso significa que, em vez de ter um arquivo CSS gigante e bagunçado, o código
 
 ### 📁 Como o CSS está estruturado:
 
-Para facilitar a vida, a pasta `styles/` está dividida em módulos:
+A pasta `styles/` está dividida em módulos:
 
 | Pasta/Arquivo | O que contém |
 | :--- | :--- |
@@ -18,8 +18,6 @@ Para facilitar a vida, a pasta `styles/` está dividida em módulos:
 | `main.css` | O arquivo principal que junta tudo. |
 | `reset.css` | A padronização inicial para todos os navegadores. |
 | `tipografia.css` | Definições de fontes, tamanhos e estilos de texto. |
-
-Em resumo: É um código HTML e CSS limpo, modular e pronto para crescer.
 
 ## Como rodar o projeto?
 
